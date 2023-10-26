@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.mad_practical_8_21012021055"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.mad_practical_8_21012021055"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
